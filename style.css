@@ -1,0 +1,17 @@
+body{
+    background-size:cover;
+}
+.title{
+    width:100%;
+    font-size:15px;
+    box-shadow:5px 5px 5px grey;
+}
+#song_name{
+    font-size:15px;
+    box-shadow:5px 5px 5px grey;
+}
+canvas{
+    box-shadow:5px 5px 5px grey;
+    border-radius:20px;
+    border-color:cyan;
+}
